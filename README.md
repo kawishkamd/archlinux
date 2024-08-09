@@ -1,5 +1,7 @@
 i3 preview
 
+![2024-08-09-19:07:07-screenshot](https://github.com/user-attachments/assets/7e2dabd8-409c-40cb-97ee-4fcc903dbf93)
+
 ![2024-08-04-12:06:54-screenshot](https://github.com/user-attachments/assets/7fedd9a4-18a8-42cf-8e80-27ebb3428c69)
 
 ![2024-08-03-19:53:10-screenshot](https://github.com/user-attachments/assets/5cbcb35b-bcb6-4349-9cee-8500ac1880d1)
